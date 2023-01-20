@@ -9,4 +9,4 @@ I'm Oluwatosin Babarinde Ayorinde (EledaLab)
 🎶 Afrobeats, Juju, Country music, Fuji and cool R&B sounds keep me going while at work or leisure.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![eledalab's GitHub stats](https://github-readme-stats.vercel.app/api?username=eledalab&theme=dark&show_icons=true)
