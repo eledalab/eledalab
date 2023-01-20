@@ -1,4 +1,4 @@
-I'm Oluwatosin Babarinde Ayorinde (EledaLab)
+I'm Oluwatosin Babarinde Ayorinde (EledaLab)			  
 #🔭 You can visit my website on this https://eledalab.com👍
 👨‍💻 I'm a Web designer,Graphic, Developer, and UI/UX designer.
 🌱 I’m currently lecturing Fullstack development at Limkokwing University and also teaching kids private schools.
@@ -10,3 +10,5 @@ I'm Oluwatosin Babarinde Ayorinde (EledaLab)
 
 
 ![eledalab's GitHub stats](https://github-readme-stats.vercel.app/api?username=eledalab&theme=dark&show_icons=true)
+
+https://api.githubtrends.io/user/svg/eledalab/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark
