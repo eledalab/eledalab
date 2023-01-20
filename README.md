@@ -43,6 +43,6 @@
 
 ![eledalab's GitHub stats](https://github-readme-stats.vercel.app/api?username=eledalab&theme=dark&show_icons=true)
 
-https://api.githubtrends.io/user/svg/eledalab/langs?time_range=one_year&loc_metric=changed&compact=True&theme=dark
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
